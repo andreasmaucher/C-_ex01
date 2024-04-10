@@ -6,12 +6,12 @@
 #    By: amaucher <amaucher@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/23 14:22:27 by amaucher          #+#    #+#              #
-#    Updated: 2024/04/09 22:09:05 by amaucher         ###   ########.fr        #
+#    Updated: 2024/04/09 22:14:03 by amaucher         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = megaphone
-SOURCES = megaphone.cpp 
+NAME = phonebook
+SOURCES = main.cpp
 		
 OBJS = $(SOURCES:.cpp=.o)
 
